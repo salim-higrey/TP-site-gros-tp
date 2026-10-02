@@ -1,0 +1,25 @@
+{
+  "name": "tp-site-gros-tp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serveur.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "dev": "node --watch serveur.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salim-higrey/TP-site-gros-tp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/salim-higrey/TP-site-gros-tp/issues"
+  },
+  "homepage": "https://github.com/salim-higrey/TP-site-gros-tp#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
